@@ -1,0 +1,116 @@
+form {
+    margin: 20px 0;
+}
+
+h6 {
+    font-size: 12px;
+    line-height: 0.8;
+}
+
+h5 {
+    font-family: 'Gideon Roman',
+        cursive;
+}
+
+.card {
+    margin-top: 100px;
+    width: 60%;
+    display: block;
+    width: 40rem;
+}
+
+.container {
+    margin-top: 0 auto;
+    display: block;
+}
+
+.input-style {
+    margin: 30px auto;
+    padding-bottom: 7px;
+    width: 320px;
+    font-family: 'Roboto',
+        sans-serif;
+}
+
+.button-style {
+    font-family: 'Gideon Roman',
+        cursive;
+}
+
+.country-style {
+    font-family: 'Gideon Roman',
+        cursive;
+    font-size: 27px;
+    margin-top: -0.5rem;
+    text-align: left;
+}
+
+.degree-style {
+    font-size: 60px;
+    padding: -9px;
+    font-family: 'Saira Condensed',
+        sans-serif;
+}
+
+.icon-style {
+    color: rgb(132, 200, 221);
+    font-size: 60px;
+    transition: all 150ms ease-in-out;
+}
+
+.icon-style:hover {
+    color: rgb(99, 157, 190);
+    font-size: 80px;
+}
+
+.font-style {
+    display: block;
+    margin: 10px;
+    font-size: 25px;
+    color: rgb(133, 147, 182);
+    transition: all 150ms ease-in-out;
+}
+
+.font-style:hover {
+    color: rgb(133, 147, 182);
+    font-size: 35px;
+
+}
+
+.daily-degree {
+    margin: 10px;
+    margin-top: -5px;
+}
+
+.font-cloud {
+    display: block;
+    margin: 10px;
+    font-size: 25px;
+    color: rgb(218, 231, 142);
+}
+
+.font-cloud:hover {
+    color: rgb(218, 231, 142);
+    font-size: 35px;
+}
+
+.font-sun {
+    display: block;
+    margin: 10px;
+    font-size: 25px;
+    color: rgb(222, 238, 79);
+}
+
+.font-sun:hover {
+    color: rgb(222, 238, 79);
+    font-size: 35px;
+}
+
+.font-cloud:hover {
+    color: rgb(222, 238, 79);
+    font-size: 35px;
+}
+
+.temp-style {
+    font-size: 25px;
+}
